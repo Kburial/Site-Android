@@ -12,9 +12,9 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/23a23c72-bdff-485b-9fb1-07c7c212ee0e" width="700px" />
+  <p><em>Additional content about Android, including an embedded video, a list of Android version names, and further information about the operating system.</em></p>
 </div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a297c972-45b9-49d7-b9a1-e924394b209e" width="700px" />
-  <p><em>Additional content about Android, including an embedded video, a list of Android version names, and further information about the operating system.</em></p>
 </div>
