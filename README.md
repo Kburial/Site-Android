@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/93d09530-fb86-42ce-b678-51f067c8b9d4" width="700px" />
+  <p><em>Section presenting the creation of the new Android mascot, including designer Irina Blok and the development of the iconic Bugdroid character.</em></p>
 </div>
 
 <div align="center">
@@ -17,4 +18,5 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a297c972-45b9-49d7-b9a1-e924394b209e" width="700px" />
+  <p><em>Section highlighting the Android versions named after desserts and sweets, from Android 1.5 Cupcake to Android 9.0 Pie, along with additional information about the operating system's evolution.</em></p>
 </div>
